@@ -10,6 +10,12 @@ Compares output numerical name to 19k most common worldwide names and displays a
 You need to move names.txt to /build before running it :) USAGE ./namesnumbers <numerical name>
  ![example usage](https://github.com/OK9UWU/numbers2names/blob/main/example2.png)
 
+Simple compilation.
+
+mkdir build
+cd build
+cmake ..
+make
 
 
 Thanks to ZbychuButItWasTaken and Hiiammilan for help
